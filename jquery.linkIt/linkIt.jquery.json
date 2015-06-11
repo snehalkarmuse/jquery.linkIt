@@ -1,0 +1,36 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jquery plugin ",
+    "description": "jQuery plugin for linking html and content.",
+    "keywords": [
+        "linkIt",
+        "html",
+        "content"
+
+    ],
+    "version": "0.2.0",
+    "author":{
+        "name": "Snehal Karmuse"
+
+    },
+    "maintainers": [
+        {
+            "name": "Snehal Karmuse",
+            "email": "snkarmuse@yahoo.com",
+            "url": "http://SnehalKarmuse/jquery.linkIt/index.html"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/SnehalKarmuse/jquery.linkIt/MIT-LICENSE.txt"
+        }
+    ],
+
+    "homepage": "https://github.com/SnehalKarmuse/jquery.linkIt/index.html",
+    "docs": "https://github.com/SnehalKarmuse/jquery.linkIt",
+
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
