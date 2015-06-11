@@ -1,5 +1,5 @@
 /**
- * Created by Nitin on 10/06/2015.
+ * Created by Snehal on 10/06/2015.
  */
 //to avoid conflicts to different libraries (2 different languages) we pass Jquery function and pass $ variable.
 (function($) {
